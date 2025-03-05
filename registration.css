@@ -1,0 +1,29 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+    border-color: brown;
+    
+}
+h1{
+    color: blue;
+}
+table tr td{
+    background-color: bisque;
+}
+#text{
+    padding-right: 60%;
+}
+#password{
+    padding-right: 60%;
+}
+
+#largetext {
+    font-size: large;
+}
+#choice select{
+    font-size: large;
+}
+#submit{
+    padding: 10px 8px;
+}
